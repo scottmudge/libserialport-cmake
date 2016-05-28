@@ -4,7 +4,7 @@ This is a fork of Sigrok's libserialport (https://sigrok.org/wiki/Libserialport)
 
 # Building #
 
-Make sure you have installed one of the Windows SDKs (I have tested 8 and 10) so that you have the dependencies required for windows hardware (cfgmgr32.lib and SetupAPI.Lib). Once you have that installed, all you need to run in the MinGW terminal is:
+Make sure you have installed one of the Windows SDKs (I have tested 8 and 10) so that you have the dependencies required for windows (cfgmgr32.lib and SetupAPI.Lib). Once you have that installed, all you need to run in the MinGW terminal is:
 
 * mkdir build
 * cd build
