@@ -1,6 +1,6 @@
 # Description #
 
-This is a fork of Sigrok's libserialport that I created to be compatible with cmake. I wanted to be able to compile it using MinGW alone, without the need for MSYS2 or Cygwin. It compiles fine and creates both shared and static libraries. 
+This is a fork of Sigrok's libserialport (https://sigrok.org/wiki/Libserialport) that I created to be compatible with cmake. I wanted to be able to compile it using MinGW alone, without the need for MSYS2 or Cygwin. It compiles fine and creates both shared and static libraries.
 
 # Building #
 
@@ -17,4 +17,5 @@ I have also included precompiled libraries for x64 versions of Windows if you'd 
 
 ## Contributors ##
 
-Scott Mudge - mail@scottmudge.com
+Scott Mudge - mail@scottmudge.com (cmake compatibility)
+Sigrok Community - everything else (https://sigrok.org/wiki/Libserialport)
