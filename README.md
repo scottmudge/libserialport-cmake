@@ -18,4 +18,5 @@ I have also included precompiled libraries for x64 versions of Windows if you'd 
 ## Contributors ##
 
 Scott Mudge - mail@scottmudge.com (cmake compatibility)
+
 Sigrok Community - everything else (https://sigrok.org/wiki/Libserialport)
